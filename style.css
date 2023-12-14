@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+#hero{
+background-image: url(images/miragehero.jpg);
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+
+#hero .container{
+    height: 50vh;
+}
+#bottompageHero{
+    background-image: url(heroshot/bottompageHero.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+} 
+#bottompageHero .container{
+    height: 50vh;
+}
+#footer{
+    background-color: rgba(123, 90, 72, 1);
+}
